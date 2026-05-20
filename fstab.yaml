@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/oneadobe/dvr1/main
+    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/vyshnavi-1609/fis1/main
     type: "markup"
     suffix: ".html"
